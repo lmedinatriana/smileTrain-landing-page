@@ -1,0 +1,1 @@
+.img-hover-container img{width:100%}.img-hover-container p{position:absolute;width:80%;bottom:25%;left:10%;padding:10px;color:#fff;opacity:0;transition:.5s;font-size:16px}.img-hover-container:hover img{filter:brightness(50%)}.img-hover-container:hover p{opacity:1}
